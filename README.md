@@ -132,7 +132,7 @@ Weather data visualization:
 - **3D Surface Plot** – Interpolated weather surface.  
   💡 *Importance*: Useful for understanding complex spatial/temporal relationships in datasets.
 
-<img width="798" height="719" alt="image" src="https://github.com/user-attachments/assets/be31a04b-2648-43a8-be9a-fdbb826f4c90" />
+<img width="797" height="717" alt="image" src="https://github.com/user-attachments/assets/104effb1-939c-4525-a252-324f2782fc26" />
 
 
 ---
